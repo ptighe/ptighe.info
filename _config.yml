@@ -1,9 +1,10 @@
 # Site settings
 title: ptighe.info
-email: your-email@domain.com
-description: Homepage and development site for Patrick Tighe.  
+email: ptighe *at* gmail.com
+description: Homepage and development site for Patrick Tighe MD MS.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.ptighe.info.s3-website-us-east-1.amazonaws.com" # the base hostname & protocol for your site
+url: "https://www.ptighe.info" # the base hostname & protocol for your site
+# add if needed to url: .s3-website-us-east-1.amazonaws.com
 twitter_username: ptighe
 github_username:  ptighe
 
